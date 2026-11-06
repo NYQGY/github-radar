@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T09:55:17.322700+00:00",
+  "updated": "2026-11-06T09:57:30.145930+00:00",
   "projects": [
     {
       "name": "codecrafters-io/build-your-own-x",
@@ -24,7 +24,7 @@
       "url": "https://github.com/sindresorhus/awesome",
       "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
       "language": "其他",
-      "stars": 532031,
+      "stars": 532032,
       "delta": null,
       "topics": [
         "awesome",
@@ -66,7 +66,7 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars": 458637,
+      "stars": 458638,
       "delta": null,
       "topics": [
         "careers",
@@ -93,7 +93,7 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars": 435946,
+      "stars": 435953,
       "delta": null,
       "topics": [
         "agent-skills",
@@ -117,7 +117,7 @@
         "touhou",
         "typescript"
       ],
-      "updated": "2026-11-06T09:54:08Z",
+      "updated": "2026-11-06T09:56:52Z",
       "license": "MIT"
     },
     {
@@ -125,7 +125,7 @@
       "url": "https://github.com/EbookFoundation/free-programming-books",
       "description": ":books: Freely available programming books",
       "language": "Python",
-      "stars": 401031,
+      "stars": 401032,
       "delta": null,
       "topics": [
         "books",
@@ -142,7 +142,7 @@
       "url": "https://github.com/openclaw/openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
       "language": "TypeScript",
-      "stars": 394021,
+      "stars": 394022,
       "delta": null,
       "topics": [
         "ai",
@@ -153,7 +153,7 @@
         "own-your-data",
         "personal"
       ],
-      "updated": "2026-11-06T09:52:29Z",
+      "updated": "2026-11-06T09:57:07Z",
       "license": "MIT"
     },
     {
@@ -161,7 +161,7 @@
       "url": "https://github.com/donnemartin/system-design-primer",
       "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
       "language": "Python",
-      "stars": 377015,
+      "stars": 377016,
       "delta": null,
       "topics": [
         "design",
@@ -232,7 +232,7 @@
         "software-engineering",
         "study-plan"
       ],
-      "updated": "2026-11-06T05:45:18Z",
+      "updated": "2026-11-06T09:57:03Z",
       "license": "CC-BY-SA-4.0"
     },
     {
@@ -260,7 +260,7 @@
       "url": "https://github.com/vinta/awesome-python",
       "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
       "language": "Python",
-      "stars": 332851,
+      "stars": 332852,
       "delta": null,
       "topics": [
         "awesome",
@@ -278,7 +278,7 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars": 315974,
+      "stars": 315975,
       "delta": null,
       "topics": [],
       "updated": "2026-11-05T10:40:01Z",
@@ -309,7 +309,7 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 298130,
+      "stars": 298131,
       "delta": null,
       "topics": [
         "ai-agents",
@@ -360,7 +360,7 @@
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stars": 274405,
+      "stars": 274407,
       "delta": null,
       "topics": [
         "ai-agents",
@@ -401,7 +401,7 @@
       "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
       "language": "其他",
-      "stars": 256249,
+      "stars": 256250,
       "delta": null,
       "topics": [
         "awesome",
@@ -509,7 +509,7 @@
       "url": "https://github.com/vuejs/vue",
       "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
       "language": "TypeScript",
-      "stars": 212506,
+      "stars": 212507,
       "delta": null,
       "topics": [
         "framework",
@@ -639,7 +639,7 @@
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
       "language": "TypeScript",
-      "stars": 199078,
+      "stars": 199079,
       "delta": null,
       "topics": [
         "ai",
@@ -810,7 +810,7 @@
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stars": 187934,
+      "stars": 187936,
       "delta": null,
       "topics": [
         "agent-skills"
@@ -857,7 +857,7 @@
       "url": "https://github.com/521xueweihan/HelloGitHub",
       "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
       "language": "Python",
-      "stars": 187208,
+      "stars": 187209,
       "delta": null,
       "topics": [
         "awesome",
@@ -873,7 +873,7 @@
       "url": "https://github.com/CyC2018/CS-Notes",
       "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
       "language": "JavaScript",
-      "stars": 186459,
+      "stars": 186458,
       "delta": null,
       "topics": [
         "algorithm",
@@ -893,7 +893,7 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
-      "stars": 186067,
+      "stars": 186068,
       "delta": null,
       "topics": [
         "deepseek",
@@ -919,7 +919,7 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars": 185483,
+      "stars": 185484,
       "delta": null,
       "topics": [
         "agent-skills",
@@ -1301,7 +1301,7 @@
       "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
       "language": "Rust",
-      "stars": 152276,
+      "stars": 152275,
       "delta": null,
       "topics": [
         "ai-tools",
@@ -1409,7 +1409,7 @@
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
       "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
       "language": "Python",
-      "stars": 145919,
+      "stars": 145920,
       "delta": null,
       "topics": [
         "ai-skills",
@@ -1571,7 +1571,7 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
-      "stars": 143203,
+      "stars": 143204,
       "delta": null,
       "topics": [
         "ai-agents",
@@ -1603,7 +1603,7 @@
       "url": "https://github.com/ripienaar/free-for-dev",
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
-      "stars": 142037,
+      "stars": 142038,
       "delta": null,
       "topics": [
         "awesome-list",
@@ -1652,7 +1652,7 @@
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars": 140256,
+      "stars": 140257,
       "delta": null,
       "topics": [],
       "updated": "2026-11-06T09:52:39Z",
@@ -1663,7 +1663,7 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars": 140016,
+      "stars": 140015,
       "delta": null,
       "topics": [
         "ai-video-generator",
@@ -1832,7 +1832,7 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
-      "stars": 128392,
+      "stars": 128393,
       "delta": null,
       "topics": [
         "android",
@@ -1912,7 +1912,7 @@
       "url": "https://github.com/VoltAgent/awesome-design-md",
       "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
       "language": "其他",
-      "stars": 125841,
+      "stars": 125842,
       "delta": null,
       "topics": [
         "awesome-list",
@@ -1975,7 +1975,7 @@
       "url": "https://github.com/nodejs/node",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "language": "JavaScript",
-      "stars": 123268,
+      "stars": 123269,
       "delta": null,
       "topics": [
         "javascript",
@@ -2037,7 +2037,7 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars": 120905,
+      "stars": 120906,
       "delta": null,
       "topics": [
         "agent",
@@ -2054,7 +2054,7 @@
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
-      "stars": 120402,
+      "stars": 120403,
       "delta": null,
       "topics": [],
       "updated": "2026-11-06T09:44:31Z",
@@ -2065,7 +2065,7 @@
       "url": "https://github.com/browser-use/browser-use",
       "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
       "language": "Python",
-      "stars": 120177,
+      "stars": 120178,
       "delta": null,
       "topics": [
         "ai-agents",
@@ -2136,7 +2136,7 @@
       "url": "https://github.com/eternity4719/HowToLiveBetter",
       "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
       "language": "HTML",
-      "stars": 73957,
+      "stars": 73958,
       "delta": null,
       "topics": [],
       "updated": "2026-11-05T07:22:40Z",
@@ -2147,7 +2147,7 @@
       "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
       "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "language": "JavaScript",
-      "stars": 63158,
+      "stars": 63159,
       "delta": null,
       "topics": [
         "ai-agents",
@@ -2169,7 +2169,7 @@
       "url": "https://github.com/Gathin23/cleanyourtv",
       "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "language": "Python",
-      "stars": 52913,
+      "stars": 52914,
       "delta": null,
       "topics": [
         "adb",
@@ -2198,7 +2198,7 @@
       "url": "https://github.com/Niko1221/Strata",
       "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
       "language": "C++",
-      "stars": 40801,
+      "stars": 40802,
       "delta": null,
       "topics": [],
       "updated": "2026-11-05T13:54:56Z",
@@ -2209,7 +2209,7 @@
       "url": "https://github.com/anywhere-labs/dsh-desktop",
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "language": "TypeScript",
-      "stars": 35096,
+      "stars": 35097,
       "delta": null,
       "topics": [
         "cordis",
@@ -2254,7 +2254,7 @@
       "url": "https://github.com/yetone/magpie",
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "language": "Go",
-      "stars": 30931,
+      "stars": 30932,
       "delta": null,
       "topics": [
         "claude-code",
@@ -2264,7 +2264,7 @@
         "llm",
         "macos"
       ],
-      "updated": "2026-11-06T09:35:11Z",
+      "updated": "2026-11-06T09:55:57Z",
       "license": "MIT"
     },
     {
@@ -2310,7 +2310,7 @@
       "url": "https://github.com/wheresryan22/anatomy",
       "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "language": "JavaScript",
-      "stars": 25394,
+      "stars": 25395,
       "delta": null,
       "topics": [
         "agent-skill",
@@ -2337,7 +2337,7 @@
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "language": "JavaScript",
-      "stars": 23059,
+      "stars": 23061,
       "delta": null,
       "topics": [
         "awesome",
@@ -2425,7 +2425,7 @@
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "description": "Towards a More Autonomous Agent System",
       "language": "TypeScript",
-      "stars": 19930,
+      "stars": 19931,
       "delta": null,
       "topics": [],
       "updated": "2026-11-03T09:29:14Z",
@@ -2486,7 +2486,7 @@
       "url": "https://github.com/Droid-Deck/DroidDeck",
       "description": "DroidDeck brings the SteamOS experience to Android",
       "language": "Kotlin",
-      "stars": 18164,
+      "stars": 18166,
       "delta": null,
       "topics": [],
       "updated": "2026-11-06T09:45:14Z",
@@ -2588,7 +2588,7 @@
       "url": "https://github.com/storytold/craft-anything",
       "description": "Craft Anything: understand how any software works, and craft your own.",
       "language": "Rust",
-      "stars": 16336,
+      "stars": 16343,
       "delta": null,
       "topics": [],
       "updated": "2026-11-06T07:22:09Z",
@@ -2609,7 +2609,7 @@
         "raw-processing",
         "rust"
       ],
-      "updated": "2026-11-06T09:46:24Z",
+      "updated": "2026-11-06T09:56:57Z",
       "license": "Apache-2.0"
     },
     {
@@ -2695,7 +2695,7 @@
       "url": "https://github.com/milind-soni/OpenMausBot",
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
-      "stars": 14104,
+      "stars": 14107,
       "delta": null,
       "topics": [
         "ai-agents",
@@ -2783,7 +2783,7 @@
       "url": "https://github.com/seedds/nxnative",
       "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
       "language": "Python",
-      "stars": 12702,
+      "stars": 12703,
       "delta": null,
       "topics": [],
       "updated": "2026-11-06T08:47:57Z",
@@ -2794,7 +2794,7 @@
       "url": "https://github.com/google/elephant-goldfish-model",
       "description": "Open-source skills for designing and reviewing software with AI agents",
       "language": "Python",
-      "stars": 12646,
+      "stars": 12648,
       "delta": null,
       "topics": [
         "agent-skills",
@@ -2822,7 +2822,7 @@
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
       "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
       "language": "Dart",
-      "stars": 12295,
+      "stars": 12297,
       "delta": null,
       "topics": [
         "ai-agent",
@@ -2863,7 +2863,7 @@
       "url": "https://github.com/dsh-market/dsh-market",
       "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
       "language": "TypeScript",
-      "stars": 11083,
+      "stars": 11084,
       "delta": null,
       "topics": [
         "deepseek-harness",
@@ -2897,7 +2897,7 @@
       "url": "https://github.com/heydamir/unslop",
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "language": "JavaScript",
-      "stars": 10249,
+      "stars": 10250,
       "delta": null,
       "topics": [],
       "updated": "2026-11-01T16:46:10Z",
@@ -2908,7 +2908,7 @@
       "url": "https://github.com/pengchujin/aerial-tv",
       "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "language": "Kotlin",
-      "stars": 10200,
+      "stars": 10202,
       "delta": null,
       "topics": [],
       "updated": "2026-11-06T02:18:35Z",
@@ -3179,7 +3179,7 @@
       "url": "https://github.com/Jakeschincariol/replica-skill",
       "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
       "language": "Python",
-      "stars": 7824,
+      "stars": 7825,
       "delta": null,
       "topics": [
         "agent",
@@ -3212,7 +3212,7 @@
         "reinforcement-learning",
         "self-improving-agents"
       ],
-      "updated": "2026-11-06T09:54:50Z",
+      "updated": "2026-11-06T09:57:16Z",
       "license": "Apache-2.0"
     },
     {
@@ -3220,7 +3220,7 @@
       "url": "https://github.com/storytold/cadcraft",
       "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
       "language": "Rust",
-      "stars": 7724,
+      "stars": 7725,
       "delta": null,
       "topics": [],
       "updated": "2026-11-06T03:36:23Z",
@@ -3348,7 +3348,7 @@
       "url": "https://github.com/wangzan101/Mika",
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "language": "Kotlin",
-      "stars": 7288,
+      "stars": 7289,
       "delta": null,
       "topics": [
         "accessibility",
@@ -3381,7 +3381,7 @@
         "self-hosted",
         "typescript"
       ],
-      "updated": "2026-11-06T09:55:02Z",
+      "updated": "2026-11-06T09:56:41Z",
       "license": "Apache-2.0"
     },
     {
@@ -3400,7 +3400,7 @@
       "url": "https://github.com/l0ng-ai/openidea",
       "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
       "language": "TypeScript",
-      "stars": 7173,
+      "stars": 7181,
       "delta": null,
       "topics": [
         "code-editor",
@@ -3533,7 +3533,7 @@
       "url": "https://github.com/horizon-rust/horizon",
       "description": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.",
       "language": "Rust",
-      "stars": 7046,
+      "stars": 7047,
       "delta": null,
       "topics": [
         "differential-testing",
@@ -3814,7 +3814,7 @@
       "url": "https://github.com/Oldcircle/geo-sleuth",
       "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
       "language": "Python",
-      "stars": 6191,
+      "stars": 6192,
       "delta": null,
       "topics": [
         "agent-skills",
@@ -3889,7 +3889,7 @@
       "url": "https://github.com/kaankiziltug/logo-design-skill",
       "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
       "language": "HTML",
-      "stars": 6097,
+      "stars": 6098,
       "delta": null,
       "topics": [
         "agent-skills",
@@ -4060,7 +4060,7 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
-      "stars": 104295,
+      "stars": 104297,
       "delta": null,
       "topics": [
         "agent-skills",
@@ -4077,7 +4077,7 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars": 102295,
+      "stars": 102297,
       "delta": null,
       "topics": [
         "ai",
@@ -4108,7 +4108,7 @@
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "Python",
-      "stars": 98486,
+      "stars": 98488,
       "delta": null,
       "topics": [
         "ai",
@@ -4326,7 +4326,7 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars": 79809,
+      "stars": 79810,
       "delta": null,
       "topics": [
         "ai",
@@ -4377,7 +4377,7 @@
         "ui",
         "unsloth"
       ],
-      "updated": "2026-11-06T09:40:21Z",
+      "updated": "2026-11-06T09:57:10Z",
       "license": "Apache-2.0"
     },
     {
@@ -4385,7 +4385,7 @@
       "url": "https://github.com/headroomlabs-ai/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars": 78970,
+      "stars": 78971,
       "delta": null,
       "topics": [
         "agent",
@@ -4417,7 +4417,7 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars": 77408,
+      "stars": 77409,
       "delta": null,
       "topics": [
         "agent",
@@ -4667,7 +4667,7 @@
       "url": "https://github.com/ai-job-search-dev/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
-      "stars": 69961,
+      "stars": 69962,
       "delta": null,
       "topics": [
         "ai",
@@ -5067,7 +5067,7 @@
         "self-hosted",
         "sql"
       ],
-      "updated": "2026-11-06T09:52:03Z",
+      "updated": "2026-11-06T09:57:20Z",
       "license": "Apache-2.0"
     },
     {
@@ -5105,7 +5105,7 @@
       "url": "https://github.com/herdrdev/herdr",
       "description": "the runtime your coding agents live on",
       "language": "Rust",
-      "stars": 48395,
+      "stars": 48396,
       "delta": null,
       "topics": [
         "agent",
@@ -5849,7 +5849,7 @@
       "url": "https://github.com/blakeblackshear/frigate",
       "description": "NVR with realtime local object detection for IP cameras",
       "language": "Python",
-      "stars": 37284,
+      "stars": 37285,
       "delta": null,
       "topics": [
         "ai",
@@ -6040,7 +6040,7 @@
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars": 63087,
+      "stars": 63088,
       "delta": null,
       "topics": [
         "3d-globe",
