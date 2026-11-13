@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-13T02:15:02.075655+00:00",
+  "updated": "2026-11-13T02:20:45.197852+00:00",
   "projects": [
     {
       "name": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
       "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "language": "Swift",
-      "stars": 6966,
+      "stars": 6968,
       "created": "2026-11-09T05:15:48Z",
       "topics": [],
       "updated": "2026-11-12T19:14:56Z",
@@ -17,7 +17,7 @@
       "url": "https://github.com/tangerineturtle1/NX2navi",
       "description": "暂无介绍",
       "language": "C",
-      "stars": 3586,
+      "stars": 3587,
       "created": "2026-11-07T10:01:23Z",
       "topics": [],
       "updated": "2026-11-12T19:54:18Z",
@@ -28,7 +28,7 @@
       "url": "https://github.com/jhaizhou-ops/S2Arm",
       "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
       "language": "C#",
-      "stars": 2766,
+      "stars": 2767,
       "created": "2026-11-08T05:49:46Z",
       "topics": [
         "apple-silicon",
@@ -42,7 +42,7 @@
         "static-recompilation",
         "switch"
       ],
-      "updated": "2026-11-13T02:11:32Z",
+      "updated": "2026-11-13T02:16:17Z",
       "license": "Apache-2.0"
     },
     {
@@ -50,7 +50,7 @@
       "url": "https://github.com/JenkinWoo/sheeridVerify",
       "description": "暂无介绍",
       "language": "JavaScript",
-      "stars": 2091,
+      "stars": 2092,
       "created": "2026-11-06T09:28:09Z",
       "topics": [],
       "updated": "2026-11-06T09:54:37Z",
@@ -83,7 +83,7 @@
       "url": "https://github.com/HybridRobotics/supermimic",
       "description": "Humanoid whole-body motion tracking with one differentiable world model.",
       "language": "Python",
-      "stars": 1315,
+      "stars": 1317,
       "created": "2026-11-10T10:46:56Z",
       "topics": [],
       "updated": "2026-11-11T08:06:27Z",
@@ -422,7 +422,7 @@
         "software-engineering",
         "utility"
       ],
-      "updated": "2026-11-12T21:13:43Z",
+      "updated": "2026-11-13T02:16:05Z",
       "license": "未知"
     },
     {
@@ -486,7 +486,7 @@
       "url": "https://github.com/agentes-chat/agentes-chat",
       "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
       "language": "TypeScript",
-      "stars": 1192,
+      "stars": 1194,
       "created": "2026-11-09T00:50:28Z",
       "topics": [
         "agentic-ai",
@@ -736,7 +736,7 @@
         "vst-plugins",
         "windows-app"
       ],
-      "updated": "2026-11-12T21:14:35Z",
+      "updated": "2026-11-13T02:16:04Z",
       "license": "未知"
     },
     {
@@ -891,6 +891,36 @@
       "license": "MIT"
     },
     {
+      "name": "ethangangasingh-crypto/musicmakerunlimited",
+      "url": "https://github.com/ethangangasingh-crypto/musicmakerunlimited",
+      "description": "Musicmakerunlimited 2026: Full-Feature Desktop Installer with Complete Toolset",
+      "language": "TypeScript",
+      "stars": 1103,
+      "created": "2026-11-06T21:14:04Z",
+      "topics": [
+        "automation",
+        "beat-creator",
+        "beginner-daw",
+        "desktop",
+        "developer-tools",
+        "loop-music-maker",
+        "magix-free",
+        "magix-github",
+        "magix-music-maker",
+        "magix-setup",
+        "music-maker-premium",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "updated": "2026-11-12T23:07:04Z",
+      "license": "未知"
+    },
+    {
       "name": "21041979/rufus-usb-formatter",
       "url": "https://github.com/21041979/rufus-usb-formatter",
       "description": "Rufus: Advanced USB Formatting and Bootable Drive Creation Utility",
@@ -921,36 +951,6 @@
       ],
       "updated": "2026-11-12T23:04:18Z",
       "license": "MIT"
-    },
-    {
-      "name": "ethangangasingh-crypto/musicmakerunlimited",
-      "url": "https://github.com/ethangangasingh-crypto/musicmakerunlimited",
-      "description": "Musicmakerunlimited 2026: Full-Feature Desktop Installer with Complete Toolset",
-      "language": "TypeScript",
-      "stars": 1103,
-      "created": "2026-11-06T21:14:04Z",
-      "topics": [
-        "automation",
-        "beat-creator",
-        "beginner-daw",
-        "desktop",
-        "developer-tools",
-        "loop-music-maker",
-        "magix-free",
-        "magix-github",
-        "magix-music-maker",
-        "magix-setup",
-        "music-maker-premium",
-        "open-source",
-        "python",
-        "scripts",
-        "software-engineering",
-        "system",
-        "utility",
-        "windows-app"
-      ],
-      "updated": "2026-11-12T23:07:04Z",
-      "license": "未知"
     },
     {
       "name": "muddinenilakshmilalithaksh-create/sp-flash-tool",
@@ -1163,6 +1163,33 @@
       "license": "未知"
     },
     {
+      "name": "daiphu2708-crypto/melodyne-5-desktop-setup",
+      "url": "https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup",
+      "description": "Melodyne-5: Professional Audio Editing Desktop Suite with Full Feature Set",
+      "language": "HTML",
+      "stars": 1103,
+      "created": "2026-11-06T21:09:49Z",
+      "topics": [
+        "automation",
+        "celemony",
+        "celemony-melodyne-install-setup-windows-2026",
+        "desktop",
+        "developer-tools",
+        "melodyne",
+        "melodyne-2026",
+        "melodyne-download",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "updated": "2026-11-12T21:43:44Z",
+      "license": "MIT"
+    },
+    {
       "name": "ilsa99/microsoft-365-desktop",
       "url": "https://github.com/ilsa99/microsoft-365-desktop",
       "description": "Microsoft 365 2024 Standalone Desktop Setup with Pre-Configured Tools",
@@ -1192,33 +1219,6 @@
         "word-excel"
       ],
       "updated": "2026-11-13T01:38:35Z",
-      "license": "MIT"
-    },
-    {
-      "name": "daiphu2708-crypto/melodyne-5-desktop-setup",
-      "url": "https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup",
-      "description": "Melodyne-5: Professional Audio Editing Desktop Suite with Full Feature Set",
-      "language": "HTML",
-      "stars": 1103,
-      "created": "2026-11-06T21:09:49Z",
-      "topics": [
-        "automation",
-        "celemony",
-        "celemony-melodyne-install-setup-windows-2026",
-        "desktop",
-        "developer-tools",
-        "melodyne",
-        "melodyne-2026",
-        "melodyne-download",
-        "open-source",
-        "python",
-        "scripts",
-        "software-engineering",
-        "system",
-        "utility",
-        "windows-app"
-      ],
-      "updated": "2026-11-12T21:43:44Z",
       "license": "MIT"
     },
     {
@@ -1459,6 +1459,61 @@
       "license": "未知"
     },
     {
+      "name": "Gacktadactle/fortnite-skin-swapper-enhancement",
+      "url": "https://github.com/Gacktadactle/fortnite-skin-swapper-enhancement",
+      "description": "Fortnite Skin Swapper: Standalone 2026 Desktop Setup, Ready to Run",
+      "language": "JavaScript",
+      "stars": 1103,
+      "created": "2026-11-06T21:01:35Z",
+      "topics": [
+        "automation",
+        "community-skins",
+        "desktop",
+        "developer-tools",
+        "fortnite-crashes-on-launch-pc",
+        "fortnite-sprites",
+        "fortnite-update-2026",
+        "offsets-dump",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "updated": "2026-11-12T22:58:57Z",
+      "license": "未知"
+    },
+    {
+      "name": "angelonyn/chimera-desktop-suite",
+      "url": "https://github.com/angelonyn/chimera-desktop-suite",
+      "description": "Chimera: Pre-configured Desktop Utility Suite with Full Installer",
+      "language": "HTML",
+      "stars": 1103,
+      "created": "2026-11-06T20:46:25Z",
+      "topics": [
+        "automation",
+        "chimera",
+        "chimera-framework",
+        "chimera-linux",
+        "chimera-meta-world",
+        "chimera-tool-pro",
+        "chimera-tool-pro-spark",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "updated": "2026-11-12T23:04:11Z",
+      "license": "未知"
+    },
+    {
       "name": "arthurrossetocampos1-crypto/uttorent-desktop",
       "url": "https://github.com/arthurrossetocampos1-crypto/uttorent-desktop",
       "description": "Uttorent 2026: Desktop Installer for Seamless Torrent Management",
@@ -1491,22 +1546,25 @@
       "license": "未知"
     },
     {
-      "name": "angelonyn/chimera-desktop-suite",
-      "url": "https://github.com/angelonyn/chimera-desktop-suite",
-      "description": "Chimera: Pre-configured Desktop Utility Suite with Full Installer",
+      "name": "farhodzodatojiddin5-cpu/exitlag-optimizer",
+      "url": "https://github.com/farhodzodatojiddin5-cpu/exitlag-optimizer",
+      "description": "ExitLag installer with optimized system performance enhancements for desktop",
       "language": "HTML",
       "stars": 1103,
-      "created": "2026-11-06T20:46:25Z",
+      "created": "2026-11-06T20:58:34Z",
       "topics": [
         "automation",
-        "chimera",
-        "chimera-framework",
-        "chimera-linux",
-        "chimera-meta-world",
-        "chimera-tool-pro",
-        "chimera-tool-pro-spark",
         "desktop",
         "developer-tools",
+        "exit-lag-exploit",
+        "exit-lag-free-2026",
+        "exitlag-2026-bypass",
+        "exitlag-2026-download",
+        "exitlag-abuse",
+        "exitlag-exploit",
+        "exitlag-patched",
+        "itlag",
+        "lag-reduction",
         "open-source",
         "python",
         "scripts",
@@ -1515,34 +1573,7 @@
         "utility",
         "windows-app"
       ],
-      "updated": "2026-11-12T23:04:11Z",
-      "license": "未知"
-    },
-    {
-      "name": "Gacktadactle/fortnite-skin-swapper-enhancement",
-      "url": "https://github.com/Gacktadactle/fortnite-skin-swapper-enhancement",
-      "description": "Fortnite Skin Swapper: Standalone 2026 Desktop Setup, Ready to Run",
-      "language": "JavaScript",
-      "stars": 1103,
-      "created": "2026-11-06T21:01:35Z",
-      "topics": [
-        "automation",
-        "community-skins",
-        "desktop",
-        "developer-tools",
-        "fortnite-crashes-on-launch-pc",
-        "fortnite-sprites",
-        "fortnite-update-2026",
-        "offsets-dump",
-        "open-source",
-        "python",
-        "scripts",
-        "software-engineering",
-        "system",
-        "utility",
-        "windows-app"
-      ],
-      "updated": "2026-11-12T22:58:57Z",
+      "updated": "2026-11-12T23:21:56Z",
       "license": "未知"
     },
     {
@@ -1578,34 +1609,32 @@
       "license": "MIT"
     },
     {
-      "name": "farhodzodatojiddin5-cpu/exitlag-optimizer",
-      "url": "https://github.com/farhodzodatojiddin5-cpu/exitlag-optimizer",
-      "description": "ExitLag installer with optimized system performance enhancements for desktop",
+      "name": "hayfa1234/honkai-star-rail-enhancement-suite",
+      "url": "https://github.com/hayfa1234/honkai-star-rail-enhancement-suite",
+      "description": "Honkai Star Rail 2026: Pre-Activated Standalone Desktop Edition, Ready to Run",
       "language": "HTML",
       "stars": 1103,
-      "created": "2026-11-06T20:58:34Z",
+      "created": "2026-11-06T21:03:58Z",
       "topics": [
         "automation",
         "desktop",
         "developer-tools",
-        "exit-lag-exploit",
-        "exit-lag-free-2026",
-        "exitlag-2026-bypass",
-        "exitlag-2026-download",
-        "exitlag-abuse",
-        "exitlag-exploit",
-        "exitlag-patched",
-        "itlag",
-        "lag-reduction",
         "open-source",
         "python",
         "scripts",
         "software-engineering",
+        "star-rail-bot",
+        "star-rail-gacha",
+        "star-rail-hack",
+        "star-rail-hacks",
+        "star-rail-mod",
+        "star-rail-script",
+        "star-rail-teleport",
         "system",
         "utility",
         "windows-app"
       ],
-      "updated": "2026-11-12T23:21:56Z",
+      "updated": "2026-11-13T02:15:42Z",
       "license": "未知"
     },
     {
@@ -1632,35 +1661,6 @@
         "windows-app"
       ],
       "updated": "2026-11-12T21:44:41Z",
-      "license": "未知"
-    },
-    {
-      "name": "hayfa1234/honkai-star-rail-enhancement-suite",
-      "url": "https://github.com/hayfa1234/honkai-star-rail-enhancement-suite",
-      "description": "Honkai Star Rail 2026: Pre-Activated Standalone Desktop Edition, Ready to Run",
-      "language": "HTML",
-      "stars": 1103,
-      "created": "2026-11-06T21:03:58Z",
-      "topics": [
-        "automation",
-        "desktop",
-        "developer-tools",
-        "open-source",
-        "python",
-        "scripts",
-        "software-engineering",
-        "star-rail-bot",
-        "star-rail-gacha",
-        "star-rail-hack",
-        "star-rail-hacks",
-        "star-rail-mod",
-        "star-rail-script",
-        "star-rail-teleport",
-        "system",
-        "utility",
-        "windows-app"
-      ],
-      "updated": "2026-11-12T21:14:15Z",
       "license": "未知"
     },
     {
@@ -1789,6 +1789,34 @@
       "license": "MIT"
     },
     {
+      "name": "xavier442/pump-fun-desktop",
+      "url": "https://github.com/xavier442/pump-fun-desktop",
+      "description": "Pump Fun 2026: Complete Desktop Utility Setup with Pre-Activated Features",
+      "language": "HTML",
+      "stars": 1103,
+      "created": "2026-11-06T21:20:42Z",
+      "topics": [
+        "automation",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "pump",
+        "pump-fun-2026",
+        "pump-fun-crack",
+        "pump-fun-trading",
+        "pumpfun-launcher",
+        "pumpfun-market-maker-bot",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "updated": "2026-11-13T02:12:33Z",
+      "license": "未知"
+    },
+    {
       "name": "RafliAbdulHaliim/sylenth-1-enhancement-suite",
       "url": "https://github.com/RafliAbdulHaliim/sylenth-1-enhancement-suite",
       "description": "Sylenth 1 configuration utility: standalone desktop setup, ready to run",
@@ -1817,34 +1845,6 @@
         "windows-app"
       ],
       "updated": "2026-11-13T02:14:35Z",
-      "license": "未知"
-    },
-    {
-      "name": "xavier442/pump-fun-desktop",
-      "url": "https://github.com/xavier442/pump-fun-desktop",
-      "description": "Pump Fun 2026: Complete Desktop Utility Setup with Pre-Activated Features",
-      "language": "HTML",
-      "stars": 1103,
-      "created": "2026-11-06T21:20:42Z",
-      "topics": [
-        "automation",
-        "desktop",
-        "developer-tools",
-        "open-source",
-        "pump",
-        "pump-fun-2026",
-        "pump-fun-crack",
-        "pump-fun-trading",
-        "pumpfun-launcher",
-        "pumpfun-market-maker-bot",
-        "python",
-        "scripts",
-        "software-engineering",
-        "system",
-        "utility",
-        "windows-app"
-      ],
-      "updated": "2026-11-13T02:12:33Z",
       "license": "未知"
     },
     {
@@ -2058,7 +2058,7 @@
         "utility",
         "windows-app"
       ],
-      "updated": "2026-11-12T21:14:25Z",
+      "updated": "2026-11-13T02:16:23Z",
       "license": "MIT"
     },
     {
@@ -2364,7 +2364,7 @@
         "utility",
         "windows-app"
       ],
-      "updated": "2026-11-12T21:14:09Z",
+      "updated": "2026-11-13T02:15:53Z",
       "license": "MIT"
     },
     {
@@ -2406,7 +2406,7 @@
         "whisper",
         "windows"
       ],
-      "updated": "2026-11-13T02:04:01Z",
+      "updated": "2026-11-13T02:20:45Z",
       "license": "MIT"
     },
     {
@@ -2448,7 +2448,7 @@
         "utility",
         "windows-app"
       ],
-      "updated": "2026-11-12T21:13:55Z",
+      "updated": "2026-11-13T02:16:26Z",
       "license": "未知"
     },
     {
@@ -2516,7 +2516,7 @@
       "url": "https://github.com/Gloridust/WowType",
       "description": "像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入、实时翻译，越用越懂你。",
       "language": "Rust",
-      "stars": 697,
+      "stars": 698,
       "created": "2026-11-06T14:48:19Z",
       "topics": [],
       "updated": "2026-11-12T23:59:58Z",
@@ -2527,7 +2527,7 @@
       "url": "https://github.com/Goldoire/fefw-recomp",
       "description": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
       "language": "C++",
-      "stars": 654,
+      "stars": 655,
       "created": "2026-11-07T21:58:07Z",
       "topics": [
         "pc-port",
@@ -2627,7 +2627,7 @@
       "url": "https://github.com/adriadam10/mkw-recomp",
       "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
       "language": "C",
-      "stars": 570,
+      "stars": 573,
       "created": "2026-11-09T15:40:06Z",
       "topics": [],
       "updated": "2026-11-12T17:07:27Z",
@@ -2656,7 +2656,7 @@
       "url": "https://github.com/sindresorhus/awesome",
       "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
       "language": "其他",
-      "stars": 535982,
+      "stars": 535985,
       "created": "2014-07-11T13:42:37Z",
       "topics": [
         "awesome",
@@ -2698,7 +2698,7 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars": 459057,
+      "stars": 459058,
       "created": "2014-12-24T17:49:19Z",
       "topics": [
         "careers",
@@ -2725,7 +2725,7 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars": 455432,
+      "stars": 455446,
       "created": "2026-04-14T00:51:32Z",
       "topics": [
         "agent-skills",
@@ -2757,7 +2757,7 @@
       "url": "https://github.com/EbookFoundation/free-programming-books",
       "description": ":books: Freely available programming books",
       "language": "Python",
-      "stars": 401497,
+      "stars": 401499,
       "created": "2013-10-11T06:50:37Z",
       "topics": [
         "books",
@@ -2774,7 +2774,7 @@
       "url": "https://github.com/openclaw/openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
       "language": "TypeScript",
-      "stars": 394406,
+      "stars": 394405,
       "created": "2025-11-24T10:16:47Z",
       "topics": [
         "ai",
@@ -2785,7 +2785,7 @@
         "own-your-data",
         "personal"
       ],
-      "updated": "2026-11-13T02:15:05Z",
+      "updated": "2026-11-13T02:19:10Z",
       "license": "MIT"
     },
     {
@@ -2910,7 +2910,7 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars": 323051,
+      "stars": 323052,
       "created": "2026-02-03T11:15:53Z",
       "topics": [],
       "updated": "2026-11-12T12:11:43Z",
@@ -2941,7 +2941,7 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 302049,
+      "stars": 302051,
       "created": "2026-01-18T00:51:51Z",
       "topics": [
         "ai-agents",
@@ -2961,7 +2961,7 @@
       "url": "https://github.com/practical-tutorials/project-based-learning",
       "description": "Curated list of project-based tutorials",
       "language": "Python",
-      "stars": 289632,
+      "stars": 289633,
       "created": "2017-04-12T05:07:46Z",
       "topics": [
         "beginner-project",
@@ -2981,7 +2981,7 @@
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stars": 279858,
+      "stars": 279862,
       "created": "2026-08-13T11:56:32Z",
       "topics": [
         "ai-agents",
@@ -3025,7 +3025,7 @@
         "nous-research",
         "openai"
       ],
-      "updated": "2026-11-13T02:13:12Z",
+      "updated": "2026-11-13T02:16:08Z",
       "license": "MIT"
     },
     {
@@ -3064,7 +3064,7 @@
       "url": "https://github.com/torvalds/linux",
       "description": "Linux kernel source tree",
       "language": "C",
-      "stars": 255529,
+      "stars": 255530,
       "created": "2011-09-04T22:48:12Z",
       "topics": [],
       "updated": "2026-11-12T21:21:39Z",
@@ -3104,7 +3104,7 @@
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars": 226477,
+      "stars": 226478,
       "created": "2025-04-30T20:08:00Z",
       "topics": [],
       "updated": "2026-11-13T01:59:40Z",
@@ -3205,7 +3205,7 @@
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
       "description": "Free domain registration and practical DNS learning resources for everyone.",
       "language": "Markdown",
-      "stars": 207980,
+      "stars": 207981,
       "created": "2024-05-30T13:23:00Z",
       "topics": [
         "digitalplat",
@@ -3232,7 +3232,7 @@
       "url": "https://github.com/yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
       "language": "Python",
-      "stars": 207327,
+      "stars": 207329,
       "created": "2020-10-26T04:22:55Z",
       "topics": [
         "cli",
@@ -3263,7 +3263,7 @@
         "python",
         "tensorflow"
       ],
-      "updated": "2026-11-13T02:08:28Z",
+      "updated": "2026-11-13T02:20:28Z",
       "license": "Apache-2.0"
     },
     {
@@ -3271,7 +3271,7 @@
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
       "language": "TypeScript",
-      "stars": 201298,
+      "stars": 201300,
       "created": "2024-04-15T21:02:29Z",
       "topics": [
         "ai",
@@ -3350,7 +3350,7 @@
       "url": "https://github.com/microsoft/vscode",
       "description": "Visual Studio Code",
       "language": "TypeScript",
-      "stars": 195339,
+      "stars": 195340,
       "created": "2015-09-03T20:23:38Z",
       "topics": [
         "editor",
@@ -3359,7 +3359,7 @@
         "typescript",
         "visual-studio-code"
       ],
-      "updated": "2026-11-13T02:04:20Z",
+      "updated": "2026-11-13T02:20:50Z",
       "license": "MIT"
     },
     {
@@ -3367,7 +3367,7 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 195127,
+      "stars": 195129,
       "created": "2024-11-13T19:56:40Z",
       "topics": [
         "autogen",
@@ -3410,7 +3410,7 @@
       "url": "https://github.com/avelino/awesome-go",
       "description": "A curated list of awesome Go frameworks, libraries and software",
       "language": "Go",
-      "stars": 193578,
+      "stars": 193579,
       "created": "2014-07-06T13:42:15Z",
       "topics": [
         "awesome",
@@ -3455,7 +3455,7 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars": 189817,
+      "stars": 189820,
       "created": "2026-06-12T00:52:37Z",
       "topics": [
         "agent-skills",
@@ -3508,7 +3508,7 @@
         "openai",
         "python"
       ],
-      "updated": "2026-11-13T01:46:12Z",
+      "updated": "2026-11-13T02:18:00Z",
       "license": "NOASSERTION"
     },
     {
@@ -3811,7 +3811,7 @@
       "url": "https://github.com/Snailclimb/JavaGuide",
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
       "language": "JavaScript",
-      "stars": 159547,
+      "stars": 159548,
       "created": "2018-05-07T13:27:00Z",
       "topics": [
         "agent",
@@ -3863,7 +3863,7 @@
       "url": "https://github.com/clash-verge-rev/clash-verge-rev",
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "language": "Rust",
-      "stars": 158048,
+      "stars": 158051,
       "created": "2023-11-21T18:24:03Z",
       "topics": [
         "clash",
@@ -3912,7 +3912,7 @@
       "url": "https://github.com/Genymobile/scrcpy",
       "description": "Display and control your Android device",
       "language": "C",
-      "stars": 154687,
+      "stars": 154689,
       "created": "2017-11-21T18:00:27Z",
       "topics": [
         "android",
@@ -3933,7 +3933,7 @@
       "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
       "language": "Rust",
-      "stars": 153985,
+      "stars": 153988,
       "created": "2025-08-04T14:16:16Z",
       "topics": [
         "ai-tools",
@@ -4015,7 +4015,7 @@
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
       "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
       "language": "Python",
-      "stars": 148703,
+      "stars": 148704,
       "created": "2025-11-30T11:36:31Z",
       "topics": [
         "ai-skills",
@@ -4072,7 +4072,7 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
-      "stars": 146792,
+      "stars": 146796,
       "created": "2026-04-03T15:49:07Z",
       "topics": [
         "ai-agents",
@@ -4104,7 +4104,7 @@
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "language": "Python",
-      "stars": 146538,
+      "stars": 146540,
       "created": "2023-01-17T03:15:56Z",
       "topics": [
         "ai",
@@ -4235,7 +4235,7 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars": 142956,
+      "stars": 142957,
       "created": "2024-03-11T02:57:34Z",
       "topics": [
         "ai-video-generator",
@@ -4261,7 +4261,7 @@
       "url": "https://github.com/ripienaar/free-for-dev",
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
-      "stars": 142712,
+      "stars": 142713,
       "created": "2015-03-18T21:06:26Z",
       "topics": [
         "awesome-list",
@@ -4387,7 +4387,7 @@
       "url": "https://github.com/ggml-org/llama.cpp",
       "description": "LLM inference in C/C++",
       "language": "C++",
-      "stars": 134589,
+      "stars": 134592,
       "created": "2023-03-10T18:58:00Z",
       "topics": [
         "ggml"
@@ -4448,7 +4448,7 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
-      "stars": 129232,
+      "stars": 129233,
       "created": "2020-09-28T15:36:08Z",
       "topics": [
         "android",
@@ -4545,7 +4545,7 @@
       "url": "https://github.com/react/react-native",
       "description": "A framework for building native applications using React",
       "language": "C++",
-      "stars": 126910,
+      "stars": 126911,
       "created": "2015-01-09T18:10:16Z",
       "topics": [
         "android",
@@ -4607,7 +4607,7 @@
       "url": "https://github.com/nodejs/node",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "language": "JavaScript",
-      "stars": 123607,
+      "stars": 123608,
       "created": "2014-11-26T19:57:11Z",
       "topics": [
         "javascript",
@@ -4628,7 +4628,7 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": 123546,
+      "stars": 123550,
       "created": "2026-03-17T03:28:57Z",
       "topics": [
         "agent-ide",
@@ -4652,7 +4652,7 @@
         "worktrees",
         "yc-backed"
       ],
-      "updated": "2026-11-13T02:13:40Z",
+      "updated": "2026-11-13T02:20:44Z",
       "license": "MIT"
     },
     {
@@ -4660,7 +4660,7 @@
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "description": "21 Lessons, Get Started Building with Generative AI ",
       "language": "Jupyter Notebook",
-      "stars": 123416,
+      "stars": 123417,
       "created": "2023-06-19T16:28:59Z",
       "topics": [
         "ai",
@@ -4686,7 +4686,7 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars": 122323,
+      "stars": 122325,
       "created": "2024-12-28T03:31:08Z",
       "topics": [
         "agent",
@@ -4758,7 +4758,7 @@
       "url": "https://github.com/storytold/photocraft",
       "description": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
       "language": "Rust",
-      "stars": 79001,
+      "stars": 79002,
       "created": "2026-09-30T13:37:48Z",
       "topics": [
         "art",
@@ -4777,7 +4777,7 @@
       "url": "https://github.com/eternity4719/HowToLiveBetter",
       "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
       "language": "HTML",
-      "stars": 75360,
+      "stars": 75363,
       "created": "2026-09-07T01:53:36Z",
       "topics": [],
       "updated": "2026-11-12T03:51:49Z",
@@ -4788,7 +4788,7 @@
       "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
       "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "language": "JavaScript",
-      "stars": 71411,
+      "stars": 71416,
       "created": "2026-09-24T16:17:19Z",
       "topics": [
         "ai-agents",
@@ -4810,7 +4810,7 @@
       "url": "https://github.com/Gathin23/cleanyourtv",
       "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "language": "Python",
-      "stars": 57044,
+      "stars": 57048,
       "created": "2026-10-17T08:12:35Z",
       "topics": [
         "adb",
@@ -4839,7 +4839,7 @@
       "url": "https://github.com/Niko1221/Strata",
       "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
       "language": "C++",
-      "stars": 43578,
+      "stars": 43580,
       "created": "2026-09-24T16:40:20Z",
       "topics": [],
       "updated": "2026-11-12T07:48:43Z",
@@ -4850,7 +4850,7 @@
       "url": "https://github.com/NandhaKishorM/laya",
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "language": "Python",
-      "stars": 35470,
+      "stars": 35471,
       "created": "2026-09-18T04:46:33Z",
       "topics": [
         "calibration",
@@ -4875,7 +4875,7 @@
       "url": "https://github.com/yetone/magpie",
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "language": "Go",
-      "stars": 35464,
+      "stars": 35467,
       "created": "2026-09-23T16:22:35Z",
       "topics": [
         "claude-code",
@@ -4885,7 +4885,7 @@
         "llm",
         "macos"
       ],
-      "updated": "2026-11-13T02:09:38Z",
+      "updated": "2026-11-13T02:15:35Z",
       "license": "MIT"
     },
     {
@@ -4893,7 +4893,7 @@
       "url": "https://github.com/storytold/craft-anything",
       "description": "Craft Anything: understand how any software works, and craft your own.",
       "language": "Rust",
-      "stars": 30001,
+      "stars": 30006,
       "created": "2026-10-31T14:50:00Z",
       "topics": [],
       "updated": "2026-11-12T19:50:17Z",
@@ -4920,7 +4920,7 @@
       "url": "https://github.com/KnifeLemon/Filee",
       "description": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
       "language": "C#",
-      "stars": 26380,
+      "stars": 26383,
       "created": "2026-09-29T20:05:15Z",
       "topics": [
         "audio-converter",
@@ -4944,7 +4944,7 @@
         "video-converter",
         "windows"
       ],
-      "updated": "2026-11-13T01:05:55Z",
+      "updated": "2026-11-13T02:17:30Z",
       "license": "MIT"
     },
     {
@@ -4974,7 +4974,7 @@
       "url": "https://github.com/google-research/harness2",
       "description": "暂无介绍",
       "language": "Python",
-      "stars": 23566,
+      "stars": 23567,
       "created": "2026-10-06T21:48:11Z",
       "topics": [],
       "updated": "2026-11-02T02:17:27Z",
@@ -4985,7 +4985,7 @@
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "description": "Towards a More Autonomous Agent System",
       "language": "TypeScript",
-      "stars": 22759,
+      "stars": 22761,
       "created": "2026-10-31T09:32:46Z",
       "topics": [],
       "updated": "2026-11-03T09:29:14Z",
@@ -4996,7 +4996,7 @@
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
       "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
       "language": "Dart",
-      "stars": 20846,
+      "stars": 20854,
       "created": "2026-10-25T08:09:52Z",
       "topics": [
         "ai-agent",
@@ -5011,7 +5011,7 @@
         "flutter",
         "llm"
       ],
-      "updated": "2026-11-13T02:14:07Z",
+      "updated": "2026-11-13T02:16:27Z",
       "license": "AGPL-3.0"
     },
     {
@@ -5039,10 +5039,10 @@
       "url": "https://github.com/Droid-Deck/DroidDeck",
       "description": "DroidDeck brings the SteamOS experience to Android",
       "language": "Kotlin",
-      "stars": 19708,
+      "stars": 19709,
       "created": "2026-09-24T15:14:13Z",
       "topics": [],
-      "updated": "2026-11-13T01:31:42Z",
+      "updated": "2026-11-13T02:20:00Z",
       "license": "GPL-3.0"
     },
     {
@@ -5050,7 +5050,7 @@
       "url": "https://github.com/Zagitta/gpu-unlock",
       "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
       "language": "C",
-      "stars": 18971,
+      "stars": 18973,
       "created": "2026-10-18T01:28:31Z",
       "topics": [],
       "updated": "2026-10-29T02:30:54Z",
@@ -5072,7 +5072,7 @@
       "url": "https://github.com/google/elephant-goldfish-model",
       "description": "Open-source plugin for designing and reviewing software with agents",
       "language": "Python",
-      "stars": 18205,
+      "stars": 18206,
       "created": "2026-09-13T16:31:06Z",
       "topics": [
         "agent-skills",
@@ -5092,7 +5092,7 @@
         "prompt-engineering",
         "spec-driven-development"
       ],
-      "updated": "2026-11-13T01:46:01Z",
+      "updated": "2026-11-13T02:17:07Z",
       "license": "Apache-2.0"
     },
     {
@@ -5180,7 +5180,7 @@
         "step",
         "wasm"
       ],
-      "updated": "2026-11-13T02:15:05Z",
+      "updated": "2026-11-13T02:20:40Z",
       "license": "Apache-2.0"
     },
     {
@@ -5206,7 +5206,7 @@
       "url": "https://github.com/lemomo-ai/lemo-opuscar",
       "description": "A toolbox of film styles made in code for Claude Code: 99 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：99 种现成风格，也能做出你自己的",
       "language": "JavaScript",
-      "stars": 15323,
+      "stars": 15326,
       "created": "2026-09-26T10:10:41Z",
       "topics": [
         "agent-skills",
@@ -5238,7 +5238,7 @@
       "url": "https://github.com/heydamir/unslop",
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "language": "JavaScript",
-      "stars": 15165,
+      "stars": 15170,
       "created": "2026-10-29T15:41:21Z",
       "topics": [],
       "updated": "2026-11-08T21:18:33Z",
@@ -5249,10 +5249,10 @@
       "url": "https://github.com/seedds/nxnative",
       "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
       "language": "Python",
-      "stars": 15102,
+      "stars": 15105,
       "created": "2026-10-13T05:20:14Z",
       "topics": [],
-      "updated": "2026-11-13T02:01:24Z",
+      "updated": "2026-11-13T02:17:05Z",
       "license": "MIT"
     },
     {
@@ -5311,7 +5311,7 @@
       "url": "https://github.com/shihabal3amri/DiPlay",
       "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
       "language": "Kotlin",
-      "stars": 13717,
+      "stars": 13718,
       "created": "2026-09-24T15:36:38Z",
       "topics": [],
       "updated": "2026-11-12T10:16:01Z",
@@ -5340,7 +5340,7 @@
       "url": "https://github.com/CopilotKit/OpenBot",
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "language": "TypeScript",
-      "stars": 11654,
+      "stars": 11657,
       "created": "2026-08-17T00:44:59Z",
       "topics": [
         "ag-ui",
@@ -5351,7 +5351,7 @@
         "generative-ui",
         "mcp"
       ],
-      "updated": "2026-11-13T02:12:15Z",
+      "updated": "2026-11-13T02:17:41Z",
       "license": "MIT"
     },
     {
@@ -5359,7 +5359,7 @@
       "url": "https://github.com/pengchujin/aerial-tv",
       "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "language": "Kotlin",
-      "stars": 11472,
+      "stars": 11476,
       "created": "2026-10-20T09:13:06Z",
       "topics": [],
       "updated": "2026-11-13T01:56:16Z",
@@ -5394,7 +5394,7 @@
       "url": "https://github.com/Edge0-AI/Edge0",
       "description": "Device-native foundation models: 145B on a laptop, 35B on a phone. Latent MoE, SSD-streamed weights, a router that predicts loads a step ahead. Mac, iPhone, Android, Windows.",
       "language": "C++",
-      "stars": 10333,
+      "stars": 10339,
       "created": "2026-09-08T13:41:47Z",
       "topics": [
         "edge-ai",
@@ -5567,7 +5567,7 @@
       "url": "https://github.com/horizon-rust/horizon",
       "description": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.",
       "language": "Rust",
-      "stars": 9137,
+      "stars": 9138,
       "created": "2026-10-03T17:08:48Z",
       "topics": [
         "differential-testing",
@@ -5590,7 +5590,7 @@
       "url": "https://github.com/Jakeschincariol/replica-skill",
       "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
       "language": "Python",
-      "stars": 9128,
+      "stars": 9130,
       "created": "2026-10-03T12:07:49Z",
       "topics": [
         "agent",
@@ -5611,7 +5611,7 @@
       "url": "https://github.com/amosblomqvist/learnharness",
       "description": "Agent harness for learning difficult things.",
       "language": "TypeScript",
-      "stars": 9044,
+      "stars": 9046,
       "created": "2026-10-16T19:35:33Z",
       "topics": [],
       "updated": "2026-11-12T01:49:30Z",
@@ -5622,7 +5622,7 @@
       "url": "https://github.com/NotRexed/Hookshot",
       "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "language": "C++",
-      "stars": 8830,
+      "stars": 8833,
       "created": "2026-11-05T12:18:58Z",
       "topics": [],
       "updated": "2026-11-13T01:59:29Z",
@@ -5633,7 +5633,7 @@
       "url": "https://github.com/zortos293/Lichii",
       "description": "VERY experimental Nintendo Switch 2 emulator",
       "language": "C++",
-      "stars": 8792,
+      "stars": 8794,
       "created": "2026-10-31T14:17:26Z",
       "topics": [],
       "updated": "2026-11-13T02:04:51Z",
@@ -5644,7 +5644,7 @@
       "url": "https://github.com/l0ng-ai/openidea",
       "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
       "language": "TypeScript",
-      "stars": 8774,
+      "stars": 8779,
       "created": "2026-10-21T12:23:14Z",
       "topics": [
         "code-editor",
@@ -5688,7 +5688,7 @@
       "url": "https://github.com/Minireel/HGhub",
       "description": "YellowFruit third-party client",
       "language": "其他",
-      "stars": 8677,
+      "stars": 8678,
       "created": "2026-11-03T14:04:27Z",
       "topics": [
         "android",
@@ -5788,7 +5788,7 @@
       "url": "https://github.com/anefzaoui/misterdownloadmanager",
       "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
       "language": "Rust",
-      "stars": 7984,
+      "stars": 7989,
       "created": "2026-10-29T01:25:19Z",
       "topics": [
         "bittorrent-client",
@@ -5812,7 +5812,7 @@
         "youtube-downloader",
         "yt-dlp"
       ],
-      "updated": "2026-11-13T01:58:38Z",
+      "updated": "2026-11-13T02:20:53Z",
       "license": "GPL-3.0"
     },
     {
@@ -5859,7 +5859,7 @@
       "url": "https://github.com/unclebob/ub-mode",
       "description": "暂无介绍",
       "language": "其他",
-      "stars": 7844,
+      "stars": 7846,
       "created": "2026-10-25T16:04:09Z",
       "topics": [],
       "updated": "2026-11-02T15:08:31Z",
@@ -5870,7 +5870,7 @@
       "url": "https://github.com/janestreet/agent_skills",
       "description": "Agent skills",
       "language": "其他",
-      "stars": 7816,
+      "stars": 7819,
       "created": "2026-11-03T16:50:21Z",
       "topics": [],
       "updated": "2026-11-03T18:14:13Z",
@@ -5939,7 +5939,7 @@
         "magicos",
         "originos"
       ],
-      "updated": "2026-11-13T02:14:31Z",
+      "updated": "2026-11-13T02:18:40Z",
       "license": "MIT"
     },
     {
@@ -5989,7 +5989,7 @@
       "url": "https://github.com/yang0/handraw-style",
       "description": "手绘风格编号画廊与双语提示词 Skill",
       "language": "HTML",
-      "stars": 7549,
+      "stars": 7550,
       "created": "2026-09-05T21:57:22Z",
       "topics": [],
       "updated": "2026-11-10T23:48:58Z",
@@ -6000,7 +6000,7 @@
       "url": "https://github.com/JuneYaooo/rea-video",
       "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。",
       "language": "Python",
-      "stars": 7541,
+      "stars": 7543,
       "created": "2026-10-29T16:15:01Z",
       "topics": [
         "agent-skills",
@@ -6068,7 +6068,7 @@
       "url": "https://github.com/kingcharleslzy-ai/dsh-purge",
       "description": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
       "language": "JavaScript",
-      "stars": 7487,
+      "stars": 7490,
       "created": "2026-10-16T07:44:27Z",
       "topics": [
         "agent-tools",
@@ -6135,7 +6135,7 @@
       "url": "https://github.com/Fei2411/DS-Bot",
       "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
       "language": "JavaScript",
-      "stars": 7315,
+      "stars": 7316,
       "created": "2026-10-07T15:37:36Z",
       "topics": [
         "bot",
@@ -6168,7 +6168,7 @@
       "url": "https://github.com/patch-gg/pixelfx",
       "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
       "language": "JavaScript",
-      "stars": 7186,
+      "stars": 7187,
       "created": "2026-10-30T06:43:25Z",
       "topics": [
         "agent-skills",
@@ -6274,7 +6274,7 @@
       "url": "https://github.com/valentderah/totk-pc-recomp",
       "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
       "language": "C",
-      "stars": 6938,
+      "stars": 6939,
       "created": "2026-10-29T12:32:46Z",
       "topics": [
         "game",
@@ -6445,7 +6445,7 @@
       "url": "https://github.com/LNPANDY/NX2Apple",
       "description": "Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.",
       "language": "Swift",
-      "stars": 6494,
+      "stars": 6496,
       "created": "2026-10-20T18:16:07Z",
       "topics": [
         "apple-silicon",
@@ -6471,7 +6471,7 @@
       "url": "https://github.com/CopilotKit/openmuse",
       "description": "A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.",
       "language": "TypeScript",
-      "stars": 6448,
+      "stars": 6449,
       "created": "2026-09-15T16:05:44Z",
       "topics": [],
       "updated": "2026-11-13T01:09:20Z",
@@ -6508,7 +6508,7 @@
       "url": "https://github.com/simbasjungles/free-my-tv",
       "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
       "language": "Java",
-      "stars": 6317,
+      "stars": 6319,
       "created": "2026-10-19T19:29:01Z",
       "topics": [
         "android-tv",
@@ -6523,7 +6523,7 @@
         "tmdb",
         "webos"
       ],
-      "updated": "2026-11-13T01:55:32Z",
+      "updated": "2026-11-13T02:17:49Z",
       "license": "MIT"
     },
     {
@@ -6546,7 +6546,7 @@
       "url": "https://github.com/QingYunA/answer-me-with-html",
       "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "language": "JavaScript",
-      "stars": 6274,
+      "stars": 6275,
       "created": "2026-10-02T09:57:40Z",
       "topics": [
         "agent-skill",
@@ -6593,7 +6593,7 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars": 116596,
+      "stars": 116598,
       "created": "2025-08-31T20:50:03Z",
       "topics": [
         "ai",
@@ -6648,7 +6648,7 @@
         "vectors",
         "websockets"
       ],
-      "updated": "2026-11-13T01:19:42Z",
+      "updated": "2026-11-13T02:19:41Z",
       "license": "Apache-2.0"
     },
     {
@@ -6656,7 +6656,7 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars": 109244,
+      "stars": 109247,
       "created": "2026-04-09T21:40:26Z",
       "topics": [
         "ai",
@@ -6687,7 +6687,7 @@
       "url": "https://github.com/pbakaus/impeccable",
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
-      "stars": 109032,
+      "stars": 109034,
       "created": "2025-11-16T01:52:04Z",
       "topics": [
         "agent-skills",
@@ -6754,7 +6754,7 @@
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "Python",
-      "stars": 102170,
+      "stars": 102173,
       "created": "2024-10-13T20:29:53Z",
       "topics": [
         "ai",
@@ -6875,7 +6875,7 @@
         "palantir",
         "situation"
       ],
-      "updated": "2026-11-13T02:14:35Z",
+      "updated": "2026-11-13T02:16:58Z",
       "license": "AGPL-3.0"
     },
     {
@@ -6941,7 +6941,7 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars": 83459,
+      "stars": 83462,
       "created": "2026-03-10T01:51:06Z",
       "topics": [
         "ai",
@@ -7000,7 +7000,7 @@
       "url": "https://github.com/OpenMontageInc/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars": 80035,
+      "stars": 80037,
       "created": "2026-03-29T15:23:22Z",
       "topics": [
         "agent",
@@ -7031,7 +7031,7 @@
       "url": "https://github.com/headroomlabs-ai/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars": 79499,
+      "stars": 79500,
       "created": "2026-01-07T19:58:51Z",
       "topics": [
         "agent",
@@ -7087,7 +7087,7 @@
         "ui",
         "unsloth"
       ],
-      "updated": "2026-11-13T01:46:39Z",
+      "updated": "2026-11-13T02:19:33Z",
       "license": "Apache-2.0"
     },
     {
@@ -7095,7 +7095,7 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": 78597,
+      "stars": 78598,
       "created": "2026-03-18T18:38:02Z",
       "topics": [
         "agents",
@@ -7127,7 +7127,7 @@
       "url": "https://github.com/hiyouga/LlamaFactory",
       "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
       "language": "Python",
-      "stars": 76023,
+      "stars": 76024,
       "created": "2023-05-28T10:09:12Z",
       "topics": [
         "agent",
@@ -7159,7 +7159,7 @@
       "url": "https://github.com/openbq-org/OpenBB",
       "description": "Open Data Platform for analysts, quants and AI agents.",
       "language": "Python",
-      "stars": 75371,
+      "stars": 75372,
       "created": "2020-12-20T10:46:38Z",
       "topics": [
         "ai",
@@ -7281,7 +7281,7 @@
         "tui",
         "typescript"
       ],
-      "updated": "2026-11-13T02:14:50Z",
+      "updated": "2026-11-13T02:19:14Z",
       "license": "NOASSERTION"
     },
     {
@@ -7396,7 +7396,7 @@
       "url": "https://github.com/sansan0/TrendRadar",
       "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
       "language": "Python",
-      "stars": 63611,
+      "stars": 63612,
       "created": "2025-04-28T11:42:16Z",
       "topics": [
         "ai",
@@ -7481,7 +7481,7 @@
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "Python",
-      "stars": 60527,
+      "stars": 60528,
       "created": "2026-01-25T12:27:03Z",
       "topics": [
         "ai",
@@ -7533,7 +7533,7 @@
       "url": "https://github.com/pingdotgg/t3code",
       "description": "The best way to control Claude Code, Codex and more from any computer or phone",
       "language": "TypeScript",
-      "stars": 58466,
+      "stars": 58468,
       "created": "2026-02-08T23:46:22Z",
       "topics": [
         "agent-orchestration",
@@ -7545,7 +7545,7 @@
         "code",
         "vibe-coding"
       ],
-      "updated": "2026-11-13T02:14:08Z",
+      "updated": "2026-11-13T02:20:33Z",
       "license": "MIT"
     },
     {
@@ -7628,7 +7628,7 @@
       "url": "https://github.com/elder-plinius/CL4R1T4S",
       "description": "LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐",
       "language": "其他",
-      "stars": 52626,
+      "stars": 52628,
       "created": "2025-03-04T20:03:16Z",
       "topics": [
         "agents",
@@ -7690,7 +7690,7 @@
       "url": "https://github.com/upscayl/upscayl",
       "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
       "language": "TypeScript",
-      "stars": 52392,
+      "stars": 52393,
       "created": "2022-07-30T17:19:20Z",
       "topics": [
         "ai",
@@ -7742,7 +7742,7 @@
       "url": "https://github.com/herdrdev/herdr",
       "description": "the runtime your coding agents live on",
       "language": "Rust",
-      "stars": 50629,
+      "stars": 50630,
       "created": "2026-03-27T17:54:33Z",
       "topics": [
         "agent",
@@ -7998,7 +7998,7 @@
       "url": "https://github.com/ifixai-ai/iFixAi",
       "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
       "language": "Python",
-      "stars": 45101,
+      "stars": 45102,
       "created": "2026-04-27T13:02:34Z",
       "topics": [
         "agent-evaluation",
@@ -8052,7 +8052,7 @@
         "python",
         "rag"
       ],
-      "updated": "2026-11-13T01:52:41Z",
+      "updated": "2026-11-13T02:20:38Z",
       "license": "MIT"
     },
     {
@@ -8228,7 +8228,7 @@
         "sql",
         "tidb"
       ],
-      "updated": "2026-11-13T01:37:02Z",
+      "updated": "2026-11-13T02:16:45Z",
       "license": "Apache-2.0"
     },
     {
@@ -8402,7 +8402,7 @@
       "url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
       "language": "TypeScript",
-      "stars": 38672,
+      "stars": 38673,
       "created": "2023-06-19T04:08:31Z",
       "topics": [
         "agent",
@@ -8635,7 +8635,7 @@
       "url": "https://github.com/SillyTavern/SillyTavern",
       "description": "LLM Frontend for Power Users.",
       "language": "JavaScript",
-      "stars": 35570,
+      "stars": 35571,
       "created": "2023-02-09T10:19:24Z",
       "topics": [
         "ai",
@@ -8683,7 +8683,7 @@
       "url": "https://github.com/milind-soni/OpenMausBot",
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
-      "stars": 21749,
+      "stars": 21752,
       "created": "2026-08-11T18:58:55Z",
       "topics": [
         "ai-agents",
@@ -8706,7 +8706,7 @@
       "url": "https://github.com/vercel-labs/agent-desktop",
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
-      "stars": 22764,
+      "stars": 22767,
       "created": "2026-02-19T18:00:49Z",
       "topics": [
         "accessibility",
@@ -8730,7 +8730,7 @@
       "url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
-      "stars": 12269,
+      "stars": 12271,
       "created": "2026-04-27T21:45:56Z",
       "topics": [],
       "updated": "2026-11-12T21:23:57Z",
@@ -8741,7 +8741,7 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
-      "stars": 50355,
+      "stars": 50356,
       "created": "2026-01-11T05:38:15Z",
       "topics": [],
       "updated": "2026-11-13T02:01:28Z",
@@ -8760,7 +8760,7 @@
         "text-editor",
         "zed"
       ],
-      "updated": "2026-11-13T00:01:14Z",
+      "updated": "2026-11-13T02:16:27Z",
       "license": "NOASSERTION"
     },
     {
@@ -8797,7 +8797,7 @@
       "url": "https://github.com/milind-soni/OpenMausBot",
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
-      "stars": 21749,
+      "stars": 21752,
       "created": "2026-08-11T18:58:55Z",
       "topics": [
         "ai-agents",
@@ -8821,7 +8821,7 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars": 323051,
+      "stars": 323052,
       "created": "2026-02-03T11:15:53Z",
       "topics": [],
       "updated": "2026-11-12T12:11:43Z",
@@ -8833,7 +8833,7 @@
       "url": "https://github.com/vercel-labs/agent-desktop",
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
-      "stars": 22764,
+      "stars": 22767,
       "created": "2026-02-19T18:00:49Z",
       "topics": [
         "accessibility",
@@ -8872,7 +8872,7 @@
       "url": "https://github.com/NVIDIA/auto-ontology",
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
-      "stars": 12269,
+      "stars": 12271,
       "created": "2026-04-27T21:45:56Z",
       "topics": [],
       "updated": "2026-11-12T21:23:57Z",
@@ -8884,7 +8884,7 @@
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "Python",
-      "stars": 102170,
+      "stars": 102173,
       "created": "2024-10-13T20:29:53Z",
       "topics": [
         "ai",
@@ -8917,7 +8917,7 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
-      "stars": 50355,
+      "stars": 50356,
       "created": "2026-01-11T05:38:15Z",
       "topics": [],
       "updated": "2026-11-13T02:01:28Z",
@@ -8937,7 +8937,7 @@
         "text-editor",
         "zed"
       ],
-      "updated": "2026-11-13T00:01:14Z",
+      "updated": "2026-11-13T02:16:27Z",
       "license": "NOASSERTION",
       "weekly_stars": 2339
     },
