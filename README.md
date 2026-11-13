@@ -1,17 +1,17 @@
 # 开源雷达
 
-静态项目库 + Python 标准库采集 + GitHub Actions 每日更新及每周归档。
+静态项目库 + Python 标准库采集 + GitHub Actions 每日更新及每周归档。本周热榜展示 GitHub Trending 周榜中本周获得 Star 最多的 10 个项目。
 
 ## 当前状态
 
-已通过 GitHub 连接器核验并收录用户提供的 10 个仓库，记录 2026-11-06 首次快照。没有虚构周增长。OpenAI 尚未接入，简介使用仓库原文。Sites 发布的是当前静态版本，不会执行 GitHub Actions。
+项目库从 GitHub 搜索热门、近期和 AI 仓库；本周热榜直接读取 GitHub Trending 周榜。OpenAI 尚未接入，简介使用仓库原文。Sites 发布的是静态版本，不会执行 GitHub Actions。
 
 ## 在 GitHub 启用自动更新
 
-1. 新建自己的 GitHub 仓库，将本目录内容（包括 .github）上传。不要上传 .git 和 .openai（它们属于 Sites 托管）。
+1. 将本目录内容推送到自己的 GitHub 仓库（包括 .github）。
 2. Settings → Pages → Source 选择 GitHub Actions。
 3. 在 Actions 中允许工作流运行，手动执行 Collect and publish，确认成功。
-4. 工作流每天北京时间 09:17 采集，周一归档过去七日。定时任务可能延迟；失败会保留旧数据，不发布伪造结果。
+4. 工作流每天北京时间 09:17 采集，周一归档当时的本周热榜 Top 10。定时任务可能延迟；失败会保留旧数据。
 5. 日常访问 GitHub Pages 的网址；Sites 的当前预览不会随 GitHub Pages 同步。
 
 GitHub 自动提供 github.token，无须把 OpenAI 密钥用于 GitHub 采集。如果仓库规则不允许机器人直接推送，需要调整相应仓库权限或改为提交 PR。
@@ -27,7 +27,7 @@ Python 3.12+，不需要第三方包。
 
 ## 数据口径
 
-仅对已跟踪项目排名，不代表 GitHub 全站。七日净增长使用北京日期对应的七日前快照；缺少基线显示观察中。当天重跑覆盖当日快照。周报保存当时项目数据，避免历史榜单随当前数据变化。
+本周热榜读取 GitHub Trending 的 weekly 页面，按页面显示的「stars this week」排序，取前 10 个仓库；既可包含新项目，也可包含本周走红的老项目。采集失败时不覆盖旧数据。周一归档当时的项目数据，避免历史榜单随当前数据变化。项目库另外使用 GitHub Search API 获取候选项目。
 
 ## OpenAI 配置待办
 
